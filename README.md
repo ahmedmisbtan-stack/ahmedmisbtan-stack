@@ -1,40 +1,33 @@
-# A H M E D M O H A M M E D
+# Ahmed Mohammed
 
-### Junior Data Analyst — SQL • Excel • Power BI • Python
+### Junior Data Analyst
 
-I am building practical projects around **data cleaning, analysis, KPIs, dashboards, and business insights**.
-
-## Current learning path
+I'm currently learning and building projects in data analysis, with a focus on:
 
 - SQL
 - Excel
 - Power BI
-- Python / Pandas
+- Python
+- Pandas
+- Data cleaning
 - Basic statistics
-- Data cleaning & exploratory analysis
-- KPI reporting and visualization
 
-## Featured project
+I like working with real data, finding patterns, and turning numbers into useful information.
 
-### JAYEK — Delivery Platform
+## Projects
 
-A full-stack rural food-delivery pilot built with Flutter, NestJS, PostgreSQL and Docker.
+### JAYEK
 
-The project also provides a future source for operational analytics such as order volume, delivery time, cancellations, rider performance, restaurant performance and COD collection.
+A food delivery project built with Flutter, NestJS, PostgreSQL and Docker.
 
-## Building next
+I'm also interested in using the project data later to analyze orders, delivery times, cancellations, and other business metrics.
 
-- Sales analysis project
-- Customer behavior analysis
-- E-commerce dashboard
-- Delivery operations dashboard
-- SQL case studies
-- Power BI portfolio dashboards
+## What I'm working on
 
-## Visual identity
+- SQL practice
+- Excel analysis
+- Power BI dashboards
+- Python / Pandas
+- Small data analysis projects
 
-![Navy](https://img.shields.io/badge/Navy-0F172A-0F172A)
-![Teal](https://img.shields.io/badge/Teal-0F766E-0F766E)
-![Cyan](https://img.shields.io/badge/Cyan-06B6D4-06B6D4)
-
-> Turning raw data into clear decisions.
+I'm building my portfolio step by step and looking for opportunities to grow as a Data Analyst.
